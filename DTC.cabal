@@ -1,10 +1,10 @@
 Name:           DTC
 Version:        1.1.0.2
 Author:         Daniel Diaz
-Homepage:       http://dhelta.net/hprojects/DTC
+Homepage:       https://github.com/Daniel-Diaz/DTC
 License:        BSD3
 License-file:   license
-Maintainer:     Daniel Diaz [danieldiaz `at` dhelta `dot` net]
+Maintainer:     Daniel Diaz [dhelta `dot` diaz `at` gmail `dot` com]
 Category:       Language
 Synopsis:       Data To Class transformation.
 Description:    Create a class definition from a data declaration.
